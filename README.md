@@ -1,3 +1,4 @@
+## This software is based on Lawnchair, an open-source launcher under the Apache License 2.0.
 # Lawnchair 14
 
 [![Build debug APK](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/ci.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/ci.yml)
